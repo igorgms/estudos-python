@@ -26,3 +26,9 @@ print(f'{num:0>10}')
 
 num3 = 12588
 print(f'{num3:0<10}')
+
+nome = 'igor gomes'
+
+print(nome.lower())  # Tudo minusculo
+print(nome.upper())  # Tudo maiusculo
+print(nome.title())  # As primeiras maiusculas
